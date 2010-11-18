@@ -1,0 +1,6 @@
+HttpAutoSync
+------------
+
+An application and OpenFrameworks addon that will sync a local folder with a remote folder via http.
+
+Useful to keep a folder up to date with a remote server, or create "auto-update" applications.
